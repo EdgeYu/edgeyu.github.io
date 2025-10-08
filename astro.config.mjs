@@ -6,6 +6,6 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://edgeyu.github.io',
+	site: 'https://edgeyu.top',
 	integrations: [mdx(), sitemap()],
 });
